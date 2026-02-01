@@ -1,0 +1,33 @@
+# 洋館イベント - 雷鳴と不気味な声
+
+FADE in 1.0
+WAIT 0.5
+
+# 雷演出
+FLASH 255 255 255 0.1
+WAIT 0.05
+FLASH 255 255 255 0.2
+SOUND thunder
+CAMERA_SHAKE 2 0.3
+
+SAY 冒険者 "うわっ！すごい雷だ..."
+WAIT 0.3
+
+# 不気味な声
+SAY ??? "...だ...れ...だ..."
+CAMERA_SHAKE 1 1.0
+MOVE player 0 -1
+
+SAY 冒険者 "誰だ！？姿を見せろ！"
+
+# クライマックス
+FLASH 200 0 0 0.5
+SAY ??? "...帰...れ..."
+CAMERA_SHAKE 5 0.5
+CAMERA_ZOOM 1.3 0.3
+
+SAY 冒険者 "退却だ！逃げるぞ！！"
+MOVE player 0 -3 2.0
+
+FADE out 1.0
+END

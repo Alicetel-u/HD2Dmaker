@@ -1,0 +1,1792 @@
+Func called at 2026/02/01 20:42:41
+Drama Sequence Started
+Drama Sequence Completed
+[20:48:36] --- Episode 1: The AI Awakening ---
+[20:48:49] Scene 1 Completed Successfully
+[21:03:06] --- Episode 2: Physical Control ---
+[21:03:10] Moved character to: 10, 5
+[21:03:10] Position updated to 10, 5
+[21:03:11] Moved character to: 5, 10
+[21:03:11] Position updated to 5, 10
+[21:03:14] Episode 2 Completed
+[21:05:40] --- Episode 2: Physical Control ---
+[21:05:44] Moved character to: 10, 5
+[21:05:44] Position updated to 10, 5
+[21:05:45] Moved character to: 5, 10
+[21:05:45] Position updated to 5, 10
+[21:05:47] Episode 2 Completed
+[21:06:03] --- Episode 2: Physical Control ---
+[21:07:13] Moved character to: 10, 5
+[21:07:13] Position updated to 10, 5
+[21:07:16] Moved character to: 5, 10
+[21:07:16] Position updated to 5, 10
+[21:07:18] Episode 2 Completed
+[21:12:42] --- Episode 2: Physical Control ---
+[21:12:45] Moved character to: 10, 5
+[21:12:45] Position updated to 10, 5
+[21:12:47] Moved character to: 5, 10
+[21:12:47] Position updated to 5, 10
+[21:12:52] Episode 2 Completed
+[21:14:21] --- Episode 2: Physical Control ---
+[21:15:29] Moved character to: 10, 5
+[21:15:29] Position updated to 10, 5
+[21:15:32] Moved character to: 5, 10
+[21:15:32] Position updated to 5, 10
+[21:15:36] Episode 2 Completed
+[21:27:34] [SILENT_ENGINE] --- Episode 2: Physical Control ---
+[21:27:36] [SILENT_ENGINE] REAL MOVE: 10, 5
+[21:27:36] [SILENT_ENGINE] Position updated to 10, 5
+[21:27:37] [SILENT_ENGINE] REAL MOVE: 5, 10
+[21:27:37] [SILENT_ENGINE] Position updated to 5, 10
+[21:27:38] [SILENT_ENGINE] Episode 2 Completed
+[21:27:44] [SILENT_ENGINE] --- Episode 2: Physical Control ---
+[21:27:45] [SILENT_ENGINE] REAL MOVE: 10, 5
+[21:27:45] [SILENT_ENGINE] Position updated to 10, 5
+[21:27:47] [SILENT_ENGINE] REAL MOVE: 5, 10
+[21:27:47] [SILENT_ENGINE] Position updated to 5, 10
+[21:27:48] [SILENT_ENGINE] Episode 2 Completed
+[21:28:07] [SILENT_ENGINE] --- Episode 2: Physical Control ---
+[21:28:09] [SILENT_ENGINE] REAL MOVE: 10, 5
+[21:28:09] [SILENT_ENGINE] Position updated to 10, 5
+[21:28:10] [SILENT_ENGINE] REAL MOVE: 5, 10
+[21:28:10] [SILENT_ENGINE] Position updated to 5, 10
+[21:28:11] [SILENT_ENGINE] Episode 2 Completed
+[21:28:17] [SILENT_ENGINE] --- Episode 2: Physical Control ---
+[21:28:18] [SILENT_ENGINE] REAL MOVE: 10, 5
+[21:28:18] [SILENT_ENGINE] Position updated to 10, 5
+[21:28:19] [SILENT_ENGINE] REAL MOVE: 5, 10
+[21:28:19] [SILENT_ENGINE] Position updated to 5, 10
+[21:28:20] [SILENT_ENGINE] Episode 2 Completed
+[21:32:38] [RELATIVE_MOVE] RELATIVE MOVE SUCCESS: From -1 to 4
+[21:32:42] [RELATIVE_MOVE] RELATIVE MOVE SUCCESS: From 14.5 to 19.5
+[21:33:17] [RELATIVE_MOVE] RELATIVE MOVE SUCCESS: From -1 to 4
+[21:33:21] [RELATIVE_MOVE] RELATIVE MOVE SUCCESS: From 14.5 to 19.5
+[21:33:33] [RELATIVE_MOVE] RELATIVE MOVE SUCCESS: From -1 to 4
+[21:33:36] [RELATIVE_MOVE] RELATIVE MOVE SUCCESS: From 14.5 to 19.5
+[21:34:15] [RELATIVE_MOVE] RELATIVE MOVE SUCCESS: From -1 to 4
+[21:34:36] [RELATIVE_MOVE] RELATIVE MOVE SUCCESS: From 14.5 to 19.5
+[21:47:09] [RELATIVE_MOVE] RELATIVE MOVE SUCCESS: From -1 to 4
+[21:47:30] [RELATIVE_MOVE] RELATIVE MOVE SUCCESS: From 14.5 to 19.5
+[22:04:19.887] === HD2Dmaker Director Started ===
+[22:04:19.890] Loading script: 33 lines
+[22:04:19.892] Parsed 21 commands
+[22:04:20.824] [3] FADE in 1.0
+[22:04:20.825] Fade: in, duration=1
+[22:04:20.911] [4] WAIT 0.5
+[22:04:20.911] Waiting 0.5 seconds
+[22:04:21.437] [7] FLASH 255 255 255 0.1
+[22:04:21.439] Flash: RGB(255,255,255), duration=0.1
+[22:04:21.460] [8] WAIT 0.05
+[22:04:21.460] Waiting 0.05 seconds
+[22:04:21.538] [9] FLASH 255 255 255 0.2
+[22:04:21.538] Flash: RGB(255,255,255), duration=0.2
+[22:04:21.563] [10] SOUND thunder
+[22:04:21.564] Play sound: thunder
+[22:04:21.576] [11] CAMERA_SHAKE 2 0.3
+[22:04:21.577] Camera shake: intensity=2, duration=0.3
+[22:04:21.595] [13] SAY 冒険者 うわっ！すごい雷だ...
+[22:04:21.596] SAY [冒険者]: うわっ！すごい雷だ...
+[22:04:21.611] [14] WAIT 0.3
+[22:04:21.611] Waiting 0.3 seconds
+[22:04:21.938] [17] SAY ??? ...だ...れ...だ...
+[22:04:21.938] SAY [???]: ...だ...れ...だ...
+[22:04:21.954] [18] CAMERA_SHAKE 1 1.0
+[22:04:21.954] Camera shake: intensity=1, duration=1
+[22:04:21.974] [19] MOVE player 0 -1
+[22:04:21.976] Moving from {X:-1 Y:-1 Z:-1} to {X:-1 Y:-1 Z:-2}
+[22:04:23.038] [21] SAY 冒険者 誰だ！？姿を見せろ！
+[22:04:23.038] SAY [冒険者]: 誰だ！？姿を見せろ！
+[22:04:23.060] [24] FLASH 200 0 0 0.5
+[22:04:23.062] Flash: RGB(200,0,0), duration=0.5
+[22:04:23.070] [25] SAY ??? ...帰...れ...
+[22:04:23.072] SAY [???]: ...帰...れ...
+[22:04:23.087] [26] CAMERA_SHAKE 5 0.5
+[22:04:23.088] Camera shake: intensity=5, duration=0.5
+[22:04:23.104] [27] CAMERA_ZOOM 1.3 0.3
+[22:04:23.105] Camera zoom: scale=1.3, duration=0.3
+[22:04:23.122] [29] SAY 冒険者 退却だ！逃げるぞ！！
+[22:04:23.123] SAY [冒険者]: 退却だ！逃げるぞ！！
+[22:04:23.138] [30] MOVE player 0 -3 2.0
+[22:04:23.139] Moving from {X:-1 Y:-1 Z:-2} to {X:-1 Y:-1 Z:-5}
+[22:04:23.688] [32] FADE out 1.0
+[22:04:23.688] Fade: out, duration=1
+[22:04:23.712] [33] END 
+[22:04:23.712] === END command reached ===
+[22:06:47.356] === HD2Dmaker Director Started ===
+[22:06:47.358] Loading script: 33 lines
+[22:06:47.360] Parsed 21 commands
+[22:06:48.294] [3] FADE in 1.0
+[22:06:48.296] Fade: in, duration=1
+[22:06:48.311] === HD2Dmaker Director Started ===
+[22:06:48.312] Loading script: 33 lines
+[22:06:48.312] Parsed 21 commands
+[22:06:48.313] [4] WAIT 0.5
+[22:06:48.313] Waiting 0.5 seconds
+[22:06:48.314] [3] FADE in 1.0
+[22:06:48.314] Fade: in, duration=1
+[22:06:48.346] [4] WAIT 0.5
+[22:06:48.347] Waiting 0.5 seconds
+[22:06:48.863] [7] FLASH 255 255 255 0.1
+[22:06:48.864] Flash: RGB(255,255,255), duration=0.1
+[22:06:48.877] [8] WAIT 0.05
+[22:06:48.878] Waiting 0.05 seconds
+[22:06:48.879] [7] FLASH 255 255 255 0.1
+[22:06:48.879] Flash: RGB(255,255,255), duration=0.1
+[22:06:48.895] [8] WAIT 0.05
+[22:06:48.895] Waiting 0.05 seconds
+[22:06:48.958] [9] FLASH 255 255 255 0.2
+[22:06:48.958] Flash: RGB(255,255,255), duration=0.2
+[22:06:48.979] [10] SOUND thunder
+[22:06:48.979] Play sound: thunder
+[22:06:48.980] [9] FLASH 255 255 255 0.2
+[22:06:48.980] Flash: RGB(255,255,255), duration=0.2
+[22:06:48.992] [11] CAMERA_SHAKE 2 0.3
+[22:06:48.993] Camera shake: intensity=2, duration=0.3
+[22:06:48.993] [10] SOUND thunder
+[22:06:48.995] Play sound: thunder
+[22:06:49.018] [13] SAY 冒険者 うわっ！すごい雷だ...
+[22:06:49.019] SAY [冒険者]: うわっ！すごい雷だ...
+[22:06:49.019] [11] CAMERA_SHAKE 2 0.3
+[22:06:49.019] Camera shake: intensity=2, duration=0.3
+[22:06:49.031] [14] WAIT 0.3
+[22:06:49.031] Waiting 0.3 seconds
+[22:06:49.032] [13] SAY 冒険者 うわっ！すごい雷だ...
+[22:06:49.033] SAY [冒険者]: うわっ！すごい雷だ...
+[22:06:49.046] [14] WAIT 0.3
+[22:06:49.047] Waiting 0.3 seconds
+[22:06:49.359] [17] SAY ??? ...だ...れ...だ...
+[22:06:49.359] SAY [???]: ...だ...れ...だ...
+[22:06:49.376] [18] CAMERA_SHAKE 1 1.0
+[22:06:49.376] Camera shake: intensity=1, duration=1
+[22:06:49.377] [17] SAY ??? ...だ...れ...だ...
+[22:06:49.377] SAY [???]: ...だ...れ...だ...
+[22:06:49.392] [19] MOVE player 0 -1
+[22:06:49.394] Moving from {X:-1 Y:-1 Z:-1} to {X:-1 Y:-1 Z:-2}
+[22:06:49.394] [18] CAMERA_SHAKE 1 1.0
+[22:06:49.395] Camera shake: intensity=1, duration=1
+[22:06:49.411] [19] MOVE player 0 -1
+[22:06:49.411] Moving from {X:9.5 Y:7.75 Z:19.5} to {X:9.5 Y:7.75 Z:18.5}
+[22:06:50.459] [21] SAY 冒険者 誰だ！？姿を見せろ！
+[22:06:50.460] SAY [冒険者]: 誰だ！？姿を見せろ！
+[22:06:50.476] [24] FLASH 200 0 0 0.5
+[22:06:50.476] Flash: RGB(200,0,0), duration=0.5
+[22:06:50.477] [21] SAY 冒険者 誰だ！？姿を見せろ！
+[22:06:50.477] SAY [冒険者]: 誰だ！？姿を見せろ！
+[22:06:50.493] [25] SAY ??? ...帰...れ...
+[22:06:50.493] SAY [???]: ...帰...れ...
+[22:06:50.494] [24] FLASH 200 0 0 0.5
+[22:06:50.494] Flash: RGB(200,0,0), duration=0.5
+[22:06:50.511] [26] CAMERA_SHAKE 5 0.5
+[22:06:50.512] Camera shake: intensity=5, duration=0.5
+[22:06:50.513] [25] SAY ??? ...帰...れ...
+[22:06:50.513] SAY [???]: ...帰...れ...
+[22:06:50.527] [27] CAMERA_ZOOM 1.3 0.3
+[22:06:50.528] Camera zoom: scale=1.3, duration=0.3
+[22:06:50.528] [26] CAMERA_SHAKE 5 0.5
+[22:06:50.529] Camera shake: intensity=5, duration=0.5
+[22:06:50.544] [29] SAY 冒険者 退却だ！逃げるぞ！！
+[22:06:50.545] SAY [冒険者]: 退却だ！逃げるぞ！！
+[22:06:50.545] [27] CAMERA_ZOOM 1.3 0.3
+[22:06:50.546] Camera zoom: scale=1.3, duration=0.3
+[22:06:50.561] [30] MOVE player 0 -3 2.0
+[22:06:50.561] Moving from {X:-1 Y:-1 Z:-2} to {X:-1 Y:-1 Z:-5}
+[22:06:50.562] [29] SAY 冒険者 退却だ！逃げるぞ！！
+[22:06:50.562] SAY [冒険者]: 退却だ！逃げるぞ！！
+[22:06:50.576] [30] MOVE player 0 -3 2.0
+[22:06:50.576] Moving from {X:9.5 Y:7.75 Z:18.5} to {X:9.5 Y:7.75 Z:15.5}
+[22:06:51.108] [32] FADE out 1.0
+[22:06:51.109] Fade: out, duration=1
+[22:06:51.132] [33] END 
+[22:06:51.132] === END command reached ===
+[22:06:51.132] [32] FADE out 1.0
+[22:06:51.133] Fade: out, duration=1
+[22:06:51.147] [33] END 
+[22:06:51.148] === END command reached ===
+[22:08:00.969] Script file changed - reloading...
+[22:08:00.970] Loading script: 33 lines
+[22:08:00.971] Parsed 21 commands
+[22:08:00.971] [3] FADE in 1.0
+[22:08:00.972] Fade: in, duration=1
+[22:08:00.984] [4] WAIT 0.5
+[22:08:00.985] Waiting 0.5 seconds
+[22:08:00.986] Script file changed - reloading...
+[22:08:00.987] Loading script: 33 lines
+[22:08:00.987] Parsed 21 commands
+[22:08:00.988] [3] FADE in 1.0
+[22:08:00.988] Fade: in, duration=1
+[22:08:00.999] [4] WAIT 0.5
+[22:08:01.000] Waiting 0.5 seconds
+[22:08:01.528] [7] FLASH 255 255 255 0.1
+[22:08:01.529] Flash: RGB(255,255,255), duration=0.1
+[22:08:01.545] [8] WAIT 0.05
+[22:08:01.546] Waiting 0.05 seconds
+[22:08:01.546] [7] FLASH 255 255 255 0.1
+[22:08:01.547] Flash: RGB(255,255,255), duration=0.1
+[22:08:01.564] [8] WAIT 0.05
+[22:08:01.564] Waiting 0.05 seconds
+[22:08:01.627] [9] FLASH 255 255 255 0.2
+[22:08:01.628] Flash: RGB(255,255,255), duration=0.2
+[22:08:01.645] [10] SOUND thunder
+[22:08:01.645] Play sound: thunder
+[22:08:01.645] [9] FLASH 255 255 255 0.2
+[22:08:01.647] Flash: RGB(255,255,255), duration=0.2
+[22:08:01.662] [11] CAMERA_SHAKE 2 0.3
+[22:08:01.662] Camera shake: intensity=2, duration=0.3
+[22:08:01.663] [10] SOUND thunder
+[22:08:01.663] Play sound: thunder
+[22:08:01.678] [13] SAY 冒険者 うわっ！すごい雷だ...
+[22:08:01.679] SAY [冒険者]: うわっ！すごい雷だ...
+[22:08:01.679] [11] CAMERA_SHAKE 2 0.3
+[22:08:01.680] Camera shake: intensity=2, duration=0.3
+[22:08:01.705] [14] WAIT 0.3
+[22:08:01.705] Waiting 0.3 seconds
+[22:08:01.706] [13] SAY 冒険者 うわっ！すごい雷だ...
+[22:08:01.706] SAY [冒険者]: うわっ！すごい雷だ...
+[22:08:01.711] [14] WAIT 0.3
+[22:08:01.712] Waiting 0.3 seconds
+[22:08:02.144] [17] SAY ??? ...だ...れ...だ...
+[22:08:02.145] SAY [???]: ...だ...れ...だ...
+[22:08:02.160] [18] CAMERA_SHAKE 1 1.0
+[22:08:02.162] Camera shake: intensity=1, duration=1
+[22:08:02.163] [17] SAY ??? ...だ...れ...だ...
+[22:08:02.163] SAY [???]: ...だ...れ...だ...
+[22:08:02.186] [19] MOVE player 0 -1
+[22:08:02.187] Moving from {X:-1 Y:-1 Z:-5} to {X:-1 Y:-1 Z:-6}
+[22:08:02.187] [18] CAMERA_SHAKE 1 1.0
+[22:08:02.188] Camera shake: intensity=1, duration=1
+[22:08:02.197] [19] MOVE player 0 -1
+[22:08:02.198] Moving from {X:9.5 Y:7.75 Z:15.5} to {X:9.5 Y:7.75 Z:14.5}
+[22:08:03.345] [21] SAY 冒険者 誰だ！？姿を見せろ！
+[22:08:03.346] SAY [冒険者]: 誰だ！？姿を見せろ！
+[22:08:03.361] [24] FLASH 200 0 0 0.5
+[22:08:03.361] Flash: RGB(200,0,0), duration=0.5
+[22:08:03.363] [21] SAY 冒険者 誰だ！？姿を見せろ！
+[22:08:03.363] SAY [冒険者]: 誰だ！？姿を見せろ！
+[22:08:03.378] [25] SAY ??? ...帰...れ...
+[22:08:03.379] SAY [???]: ...帰...れ...
+[22:08:03.379] [24] FLASH 200 0 0 0.5
+[22:08:03.380] Flash: RGB(200,0,0), duration=0.5
+[22:08:03.393] [26] CAMERA_SHAKE 5 0.5
+[22:08:03.395] Camera shake: intensity=5, duration=0.5
+[22:08:03.395] [25] SAY ??? ...帰...れ...
+[22:08:03.396] SAY [???]: ...帰...れ...
+[22:08:03.410] [27] CAMERA_ZOOM 1.3 0.3
+[22:08:03.412] Camera zoom: scale=1.3, duration=0.3
+[22:08:03.412] [26] CAMERA_SHAKE 5 0.5
+[22:08:03.412] Camera shake: intensity=5, duration=0.5
+[22:08:03.431] [29] SAY 冒険者 退却だ！逃げるぞ！！
+[22:08:03.432] SAY [冒険者]: 退却だ！逃げるぞ！！
+[22:08:03.432] [27] CAMERA_ZOOM 1.3 0.3
+[22:08:03.433] Camera zoom: scale=1.3, duration=0.3
+[22:08:03.446] [30] MOVE player 0 -3 2.0
+[22:08:03.447] Moving from {X:-1 Y:-1 Z:-6} to {X:-1 Y:-1 Z:-9}
+[22:08:03.447] [29] SAY 冒険者 退却だ！逃げるぞ！！
+[22:08:03.447] SAY [冒険者]: 退却だ！逃げるぞ！！
+[22:08:03.462] [30] MOVE player 0 -3 2.0
+[22:08:03.462] Moving from {X:9.5 Y:7.75 Z:14.5} to {X:9.5 Y:7.75 Z:11.5}
+[22:08:03.997] [32] FADE out 1.0
+[22:08:03.997] Fade: out, duration=1
+[22:08:04.012] [33] END 
+[22:08:04.012] === END command reached ===
+[22:08:04.013] [32] FADE out 1.0
+[22:08:04.013] Fade: out, duration=1
+[22:08:04.028] [33] END 
+[22:08:04.028] === END command reached ===
+[22:08:49.290] === HD2Dmaker Director Started ===
+[22:08:49.291] Loading script: 33 lines
+[22:08:49.293] Parsed 21 commands
+[22:08:50.215] [3] FADE in 1.0
+[22:08:50.216] Fade: in, duration=1
+[22:08:50.232] === HD2Dmaker Director Started ===
+[22:08:50.234] Loading script: 33 lines
+[22:08:50.234] Parsed 21 commands
+[22:08:50.235] [4] WAIT 0.5
+[22:08:50.236] Waiting 0.5 seconds
+[22:08:50.237] [3] FADE in 1.0
+[22:08:50.237] Fade: in, duration=1
+[22:08:50.248] [4] WAIT 0.5
+[22:08:50.248] Waiting 0.5 seconds
+[22:08:50.780] [7] FLASH 255 255 255 0.1
+[22:08:50.782] Flash: RGB(255,255,255), duration=0.1
+[22:08:50.807] [8] WAIT 0.05
+[22:08:50.807] Waiting 0.05 seconds
+[22:08:50.808] [7] FLASH 255 255 255 0.1
+[22:08:50.808] Flash: RGB(255,255,255), duration=0.1
+[22:08:50.813] [8] WAIT 0.05
+[22:08:50.814] Waiting 0.05 seconds
+[22:08:50.879] [9] FLASH 255 255 255 0.2
+[22:08:50.879] Flash: RGB(255,255,255), duration=0.2
+[22:08:50.902] [10] SOUND thunder
+[22:08:50.903] Play sound: thunder
+[22:08:50.904] [9] FLASH 255 255 255 0.2
+[22:08:50.904] Flash: RGB(255,255,255), duration=0.2
+[22:08:50.915] [11] CAMERA_SHAKE 2 0.3
+[22:08:50.916] Camera shake: intensity=2, duration=0.3
+[22:08:50.917] [10] SOUND thunder
+[22:08:50.917] Play sound: thunder
+[22:08:50.930] [13] SAY 冒険者 うわっ！すごい雷だ...
+[22:08:50.932] SAY [冒険者]: うわっ！すごい雷だ...
+[22:08:50.932] [11] CAMERA_SHAKE 2 0.3
+[22:08:50.932] Camera shake: intensity=2, duration=0.3
+[22:08:50.947] [14] WAIT 0.3
+[22:08:50.947] Waiting 0.3 seconds
+[22:08:50.948] [13] SAY 冒険者 うわっ！すごい雷だ...
+[22:08:50.948] SAY [冒険者]: うわっ！すごい雷だ...
+[22:08:50.963] [14] WAIT 0.3
+[22:08:50.963] Waiting 0.3 seconds
+[22:08:51.280] [17] SAY ??? ...だ...れ...だ...
+[22:08:51.280] SAY [???]: ...だ...れ...だ...
+[22:08:51.303] [18] CAMERA_SHAKE 1 1.0
+[22:08:51.304] Camera shake: intensity=1, duration=1
+[22:08:51.305] [17] SAY ??? ...だ...れ...だ...
+[22:08:51.305] SAY [???]: ...だ...れ...だ...
+[22:08:51.312] [19] MOVE player 0 -1
+[22:08:51.313] Moving from {X:-1 Y:-1 Z:-1} to {X:-1 Y:-1 Z:-2}
+[22:08:51.314] [18] CAMERA_SHAKE 1 1.0
+[22:08:51.314] Camera shake: intensity=1, duration=1
+[22:08:51.330] [19] MOVE player 0 -1
+[22:08:51.330] Moving from {X:9.5 Y:7.75 Z:19.5} to {X:9.5 Y:7.75 Z:18.5}
+[22:08:52.379] [21] SAY 冒険者 誰だ！？姿を見せろ！
+[22:08:52.380] SAY [冒険者]: 誰だ！？姿を見せろ！
+[22:08:52.403] [24] FLASH 200 0 0 0.5
+[22:08:52.403] Flash: RGB(200,0,0), duration=0.5
+[22:08:52.404] [21] SAY 冒険者 誰だ！？姿を見せろ！
+[22:08:52.405] SAY [冒険者]: 誰だ！？姿を見せろ！
+[22:08:52.413] [25] SAY ??? ...帰...れ...
+[22:08:52.414] SAY [???]: ...帰...れ...
+[22:08:52.415] [24] FLASH 200 0 0 0.5
+[22:08:52.415] Flash: RGB(200,0,0), duration=0.5
+[22:08:52.432] [26] CAMERA_SHAKE 5 0.5
+[22:08:52.432] Camera shake: intensity=5, duration=0.5
+[22:08:52.433] [25] SAY ??? ...帰...れ...
+[22:08:52.433] SAY [???]: ...帰...れ...
+[22:08:52.446] [27] CAMERA_ZOOM 1.3 0.3
+[22:08:52.447] Camera zoom: scale=1.3, duration=0.3
+[22:08:52.448] [26] CAMERA_SHAKE 5 0.5
+[22:08:52.448] Camera shake: intensity=5, duration=0.5
+[22:08:52.462] [29] SAY 冒険者 退却だ！逃げるぞ！！
+[22:08:52.463] SAY [冒険者]: 退却だ！逃げるぞ！！
+[22:08:52.463] [27] CAMERA_ZOOM 1.3 0.3
+[22:08:52.464] Camera zoom: scale=1.3, duration=0.3
+[22:08:52.486] [30] MOVE player 0 -3 2.0
+[22:08:52.487] Moving from {X:-1 Y:-1 Z:-2} to {X:-1 Y:-1 Z:-5}
+[22:08:52.488] [29] SAY 冒険者 退却だ！逃げるぞ！！
+[22:08:52.488] SAY [冒険者]: 退却だ！逃げるぞ！！
+[22:08:52.497] [30] MOVE player 0 -3 2.0
+[22:08:52.498] Moving from {X:9.5 Y:7.75 Z:18.5} to {X:9.5 Y:7.75 Z:15.5}
+[22:08:53.030] [32] FADE out 1.0
+[22:08:53.031] Fade: out, duration=1
+[22:08:53.055] [33] END 
+[22:08:53.056] === END command reached ===
+[22:08:53.057] [32] FADE out 1.0
+[22:08:53.057] Fade: out, duration=1
+[22:08:53.063] [33] END 
+[22:08:53.063] === END command reached ===
+[22:12:07] Hero Found! Starting move from: {X:15.5 Y:3 Z:13.5}
+[22:12:07] Hero Moved to: {X:20.5 Y:3 Z:15.5}
+[22:12:59] Hero Found! Starting move from: {X:15.5 Y:2.95 Z:13.5}
+[22:12:59] Hero Moved to: {X:20.5 Y:2.95 Z:15.5}
+[22:15:00.928] Director: Starting Continuous Move for 5 seconds...
+[22:15:06.142] Director: Finished Continuous Move.
+[22:16:02] === Director: Action! ===
+[22:17:19.047] Loaded 5 commands.
+[22:17:19.049] === Director: Action! ===
+[22:17:19.050] Executing: WAIT|3000
+[22:17:22.079] Executing: MOVE_TO|20.5|15.5
+[22:17:23.164] Movement finished.
+[22:17:23.165] Executing: WAIT|2000
+[22:17:25.197] Executing: MOVE_TO|15.5|13.5
+[22:17:26.284] Movement finished.
+[22:17:26.284] Executing: SAY|演出完了！
+[22:17:26.285] DIALOGUE: 演出完了！
+[22:17:26.298] === Director: Cut! ===
+[22:18:03.926] Loaded 5 commands.
+[22:18:03.926] === Director: Action! ===
+[22:18:03.928] Executing: WAIT|3000
+[22:18:06.947] Executing: MOVE_TO|20.5|15.5
+[22:18:08.030] Movement finished.
+[22:18:08.030] Executing: WAIT|2000
+[22:18:10.065] Executing: MOVE_TO|15.5|13.5
+[22:18:11.157] Movement finished.
+[22:18:11.158] Executing: SAY|演出完了！
+[22:18:11.158] DIALOGUE: 演出完了！
+[22:18:11.181] === Director: Cut! ===
+[22:18:37.751] Loaded 5 commands.
+[22:18:37.752] === Director: Action! ===
+[22:18:37.753] Executing: WAIT|3000
+[22:18:40.782] Executing: MOVE_TO|20.5|15.5
+[22:18:41.865] Movement finished.
+[22:18:41.865] Executing: WAIT|2000
+[22:18:43.906] Executing: MOVE_TO|15.5|13.5
+[22:18:44.984] Movement finished.
+[22:18:44.984] Executing: SAY|演出完了！
+[22:18:44.985] DIALOGUE: 演出完了！
+[22:18:45.008] === Director: Cut! ===
+[22:19:02.951] Loaded 5 commands.
+[22:19:02.952] === Director: Action! ===
+[22:19:02.953] Executing: WAIT|3000
+[22:19:05.984] Executing: MOVE_TO|20.5|15.5
+[22:19:07.080] Movement finished.
+[22:19:07.081] Executing: WAIT|2000
+[22:19:09.099] Executing: MOVE_TO|15.5|13.5
+[22:19:10.183] Movement finished.
+[22:19:10.183] Executing: SAY|演出完了！
+[22:19:10.184] DIALOGUE: 演出完了！
+[22:19:10.200] === Director: Cut! ===
+[22:23:01.642] === Cinematic Engine: Online ===
+[22:23:01.644] Command: WAIT|3000
+[22:23:04.675] Command: LOG|シネマティック演習開始
+[22:23:04.675] INFO: シネマティック演習開始
+[22:23:04.692] Command: SAY|勇者|ここが...新しい伝説の地か。
+[22:23:04.692] [勇者]: ここが...新しい伝説の地か。
+[22:23:04.712] Command: LOG|左へ移動中...
+[22:23:04.712] INFO: 左へ移動中...
+[22:23:04.728] Command: MOVE_TO|10.5|13.5
+[22:23:05.575] Arrived at destination.
+[22:23:05.576] Command: WAIT|1000
+[22:23:06.607] Command: LOG|中央へ復帰中...
+[22:23:06.608] INFO: 中央へ復帰中...
+[22:23:06.625] Command: MOVE_TO|15.5|13.5
+[22:23:07.474] Arrived at destination.
+[22:23:07.475] Command: WAIT|1500
+[22:23:09.007] Command: SAY|勇者|ふむ、悪くない。
+[22:23:09.008] [勇者]: ふむ、悪くない。
+[22:23:09.025] Command: LOG|再度、左へ...
+[22:23:09.025] INFO: 再度、左へ...
+[22:23:09.042] Command: MOVE_TO|8.5|13.5
+[22:23:10.226] Arrived at destination.
+[22:23:10.227] Command: WAIT|1000
+[22:23:11.257] Command: SAY|勇者|よし、調査完了だ！
+[22:23:11.258] [勇者]: よし、調査完了だ！
+[22:23:11.276] Command: LOG|全行程終了
+[22:23:11.277] INFO: 全行程終了
+[22:23:11.291] === Cinematic Engine: Standby ===
+[22:33:45.131] === Cinematic Engine: Online (Reflection Mode) ===
+[22:33:52.863] SAY: 見てくれ、ついに自分の足で歩いたぞ！
+[22:33:52.899] === Cinematic Engine: Standby ===
+[22:35:07] [SCAN] === API DISCOVERY START ===
+[22:35:07] [SCAN] Object Type: Yukar.Engine.MapCharacter
+[22:35:07] [SCAN] --- Properties ---
+[22:35:07] [SCAN] P: MapChr (MapCharacter)
+[22:35:07] [SCAN] P: TerrainRef (Guid)
+[22:35:07] [SCAN] P: mLastMoveRad (Single)
+[22:35:07] [SCAN] P: mScale (Vector3)
+[22:35:07] [SCAN] P: DisplayObjects (List`1)
+[22:35:07] [SCAN] P: Name (String)
+[22:35:07] [SCAN] P: DestroyReserved (Boolean)
+[22:35:07] [SCAN] P: IsDynamicGenerated (Boolean)
+[22:35:07] [SCAN] P: IsEvent (Boolean)
+[22:35:07] [SCAN] P: bindedScript (BakinObject)
+[22:35:07] [SCAN] P: ConditionEffectDrawerDic (Dictionary`2)
+[22:35:07] [SCAN] P: drawConditionEffectIdx (Int32)
+[22:35:07] [SCAN] --- Methods ---
+[22:35:07] [SCAN] M: setBlend
+[22:35:07] [SCAN] M: getHeight
+[22:35:07] [SCAN] M: contains2dMotion
+[22:35:07] [SCAN] M: setScale
+[22:35:07] [SCAN] M: setScale
+[22:35:07] [SCAN] M: getScale
+[22:35:07] [SCAN] M: CreateEvent
+[22:35:07] [SCAN] M: resetColor
+[22:35:07] [SCAN] M: isInactiveParticle
+[22:35:07] [SCAN] M: buildingLightOn
+[22:35:07] [SCAN] M: setHeroSymbol
+[22:35:07] [SCAN] M: setDisplayID
+[22:35:07] [SCAN] M: onContact
+[22:35:07] [SCAN] M: setPhysics
+[22:35:07] [SCAN] M: refreshRigidBody
+[22:35:07] [SCAN] M: refreshRigidBodyMask
+[22:35:07] [SCAN] M: CalcurateCollisionMinMax
+[22:35:07] [SCAN] M: addRigidBody
+[22:35:07] [SCAN] M: getRigidbody
+[22:35:07] [SCAN] M: getConditionEffectDrawer
+[22:35:07] [SCAN] M: updateEffectDrawer
+[22:35:07] [SCAN] M: drawConditionEffect
+[22:35:07] [SCAN] M: addEffectDrawer
+[22:35:07] [SCAN] M: removeEffectDrawer
+[22:35:07] [SCAN] M: removeAllEffectDrawer
+[22:35:07] [SCAN] M: SetSubGraphicOpacity
+[22:35:07] [SCAN] M: GetSubGraphicOpacity
+[22:35:07] [SCAN] M: ResetMotion
+[22:35:07] [SCAN] M: getCurrentScript
+[22:35:07] [SCAN] M: getCurrentSheet
+[22:35:07] [SCAN] M: getModelInstance
+[22:35:07] [SCAN] M: getMapSprite
+[22:35:07] [SCAN] M: getMapBillboard
+[22:35:07] [SCAN] M: getParticle
+[22:35:07] [SCAN] M: Initialize
+[22:35:07] [SCAN] M: PlayWalkMotion
+[22:35:07] [SCAN] M: GetScriptId
+[22:35:07] [SCAN] M: GetScript
+[22:35:07] [SCAN] M: getPosition
+[22:35:07] [SCAN] M: getKmyPosition
+[22:35:07] [SCAN] M: setPosition
+[22:35:07] [SCAN] M: setPosition
+[22:35:07] [SCAN] M: SetRigidbodyPostion
+[22:35:07] [SCAN] M: setDirection
+[22:35:07] [SCAN] M: setRotation
+[22:35:07] [SCAN] M: getRotation
+[22:35:07] [SCAN] M: setRotationFromRadian
+[22:35:07] [SCAN] M: getRotationRadian
+[22:35:07] [SCAN] M: setDirectionFromRadian
+[22:35:07] [SCAN] M: playMotion
+[22:35:07] [SCAN] M: isChangeMotionAvailable
+[22:35:07] [SCAN] M: isBillboard
+[22:35:07] [SCAN] M: isSprite
+[22:35:07] [SCAN] M: pause
+[22:35:07] [SCAN] M: resume
+[22:35:07] [SCAN] M: ChangeGraphic
+[22:35:07] [SCAN] M: addInstance
+[22:35:07] [SCAN] M: addInstance
+[22:35:07] [SCAN] M: SetupModel
+[22:35:07] [SCAN] M: SaveSubGraphicState
+[22:35:07] [SCAN] M: LoadSubGraphicState
+[22:35:07] [SCAN] M: clearJointInfo
+[22:35:07] [SCAN] M: setJointInfoFromGameData
+[22:35:07] [SCAN] M: isJumping
+[22:35:07] [SCAN] M: getGroundHeight
+[22:35:07] [SCAN] M: addJointInfo
+[22:35:07] [SCAN] M: addJointInfo
+[22:35:07] [SCAN] M: addJointInfoImpl
+[22:35:07] [SCAN] M: Reset
+[22:35:07] [SCAN] M: ClearMoveMacros
+[22:35:07] [SCAN] M: finalizeCollider
+[22:35:07] [SCAN] M: getCurDir
+[22:35:07] [SCAN] M: getTgtDir
+[22:35:07] [SCAN] M: getDirectionRadian
+[22:35:07] [SCAN] M: getDirectionDigital
+[22:35:07] [SCAN] M: getPitchDegree
+[22:35:07] [SCAN] M: ChangeSpeed
+[22:35:07] [SCAN] M: ChangeSpeedByPercent
+[22:35:07] [SCAN] M: Walk
+[22:35:07] [SCAN] M: ActivateRigidbody
+[22:35:07] [SCAN] M: WalkByAddForce
+[22:35:07] [SCAN] M: Move
+[22:35:07] [SCAN] M: update
+[22:35:07] [SCAN] M: BeforeUpdate
+[22:35:07] [SCAN] M: UpdateOnlyScript
+[22:35:07] [SCAN] M: AfterDraw
+[22:35:07] [SCAN] M: FixedUpdate
+[22:35:07] [SCAN] M: Update
+[22:35:07] [SCAN] M: UpdateTransform
+[22:35:07] [SCAN] M: updateColliderPositions
+[22:35:07] [SCAN] M: draw
+[22:35:07] [SCAN] M: setVisibility
+[22:35:07] [SCAN] M: stopPickup
+[22:35:07] [SCAN] M: setOpacityMultiplier
+[22:35:07] [SCAN] M: getOpacityMultiplier
+[22:35:07] [SCAN] M: ChangeColor
+[22:35:07] [SCAN] M: ChangeColor
+[22:35:07] [SCAN] M: getGraphic
+[22:35:07] [SCAN] M: onUpdate
+[22:35:07] [SCAN] M: onStartContact
+[22:35:07] [SCAN] M: onEndContact
+[22:35:07] [SCAN] M: onDestroy
+[22:35:07] [SCAN] M: Dispose
+[22:35:07] [SCAN] M: Equals
+[22:35:07] [SCAN] M: GetHashCode
+[22:35:07] [SCAN] M: GetType
+[22:35:07] [SCAN] M: ToString
+[22:35:07] [SCAN] === API DISCOVERY END ===
+[22:38:34] === Cinematic Engine: Online (V.Final) ===
+[22:38:34] Exec: WAIT
+[22:38:37] Exec: LOG
+[22:38:37] Exec: LOG
+[22:38:37] Exec: MOVE_TO
+[22:38:37] Arrived.
+[22:38:37] Exec: WAIT
+[22:38:39] Exec: LOG
+[22:38:39] Exec: MOVE_TO
+[22:38:40] Arrived.
+[22:38:40] Exec: WAIT
+[22:38:41] Exec: LOG
+[22:38:41] Exec: DIR
+[22:38:41] Exec: WAIT
+[22:38:41] Exec: MOTION
+[22:38:41] Exec: SAY
+[22:38:41] Exec: LOG
+[22:38:41] === Cinematic Engine: Standby ===
+[22:39:09] === Cinematic Engine: Online (V.Final) ===
+[22:39:09] Exec: WAIT
+[22:39:12] Exec: LOG
+[22:39:12] Exec: LOG
+[22:39:12] Exec: MOVE_TO
+[22:39:13] Arrived.
+[22:39:13] Exec: WAIT
+[22:39:14] Exec: LOG
+[22:39:14] Exec: MOVE_TO
+[22:39:15] Arrived.
+[22:39:15] Exec: WAIT
+[22:39:16] Exec: LOG
+[22:39:16] Exec: DIR
+[22:39:16] Exec: WAIT
+[22:39:17] Exec: MOTION
+[22:39:17] Exec: SAY
+[22:39:17] Exec: LOG
+[22:39:17] === Cinematic Engine: Standby ===
+[22:41:14.361] === Cinematic Engine: Natural Walking Mode ===
+[22:41:18.527] Arrived.
+[22:41:21.127] Arrived.
+[22:41:22.777] === Cinematic Engine: Standby ===
+[22:42:44.531] === Cinematic Engine: Precision Mode ===
+[22:42:48.896] Arrived.
+[22:42:51.778] Arrived.
+[22:42:53.440] === Cinematic Engine: Standby ===
+[22:50:47.413] === Cinematic Engine: Start Final Polish ===
+[22:50:51.662] Arrived.
+[22:50:54.379] Arrived.
+[22:50:56.029] === Director: Cinematic Success ===
+[22:52:56.033] === Cinematic Engine: Side-Walking Optimized ===
+[22:53:00.999] Arrived.
+[22:53:04.715] Arrived.
+[22:53:06.378] === Director: Cinematic Success ===
+[22:54:52.848] === Cinematic Engine: Side-Walking Optimized ===
+[22:54:57.803] Arrived.
+[22:55:01.521] Arrived.
+[22:55:03.169] === Director: Cinematic Success ===
+[23:05:17.363] === Cinematic Engine: Side-Walking Optimized ===
+[23:05:22.323] Arrived.
+[23:05:26.042] Arrived.
+[23:05:27.691] === Director: Cinematic Success ===
+[23:07:01.965] === Cinematic Engine: Side-Walking Optimized ===
+[23:07:07.061] Arrived.
+[23:07:10.777] Arrived.
+[23:07:12.428] === Director: Cinematic Success ===
+[23:10:13.136] === Cinematic Engine: STANDARD API MODE ===
+[23:10:17.416] Arrived.
+[23:10:20.187] Arrived.
+[23:10:21.834] === Director: Success ===
+[23:18:43.018] === Cinematic Engine: GRID WALK ONLINE ===
+[23:18:43.021] Exec: WAIT
+[23:18:44.052] テスト開始 - 現在位置を確認
+[23:18:44.068] 下に2歩歩きます
+[23:18:44.082] Exec: WALK
+[23:18:44.935] Exec: WAIT
+[23:18:45.468] 右に2歩歩きます
+[23:18:45.482] Exec: WALK
+[23:18:46.334] Exec: WAIT
+[23:18:46.865] 上に2歩歩きます
+[23:18:46.883] Exec: WALK
+[23:18:47.732] Exec: WAIT
+[23:18:48.266] 左に2歩歩きます
+[23:18:48.283] Exec: WALK
+[23:18:49.133] Exec: WAIT
+[23:18:49.666] Exec: DIR
+[23:18:49.684] Exec: MOTION
+[23:18:49.701] 四角形移動テスト完了！
+[23:18:49.718] === Script Finished ===
+[23:19:36.052] === Cinematic Engine: GRID WALK ONLINE ===
+[23:19:36.055] Exec: WAIT
+[23:19:37.084] テスト開始 - 現在位置を確認
+[23:19:37.101] 下に2歩歩きます
+[23:19:37.117] Exec: WALK
+[23:19:37.972] Exec: WAIT
+[23:19:38.500] 右に2歩歩きます
+[23:19:38.519] Exec: WALK
+[23:19:39.367] Exec: WAIT
+[23:19:39.908] 上に2歩歩きます
+[23:19:39.923] Exec: WALK
+[23:19:40.767] Exec: WAIT
+[23:19:41.303] 左に2歩歩きます
+[23:19:41.319] Exec: WALK
+[23:19:42.167] Exec: WAIT
+[23:19:42.701] Exec: DIR
+[23:19:42.719] Exec: MOTION
+[23:19:42.734] 四角形移動テスト完了！
+[23:19:42.751] === Script Finished ===
+[23:20:20.720] === Cinematic Engine: GRID WALK ONLINE ===
+[23:20:20.723] Exec: WAIT
+[23:20:21.752] テスト開始 - 現在位置を確認
+[23:20:21.769] 下に2歩歩きます
+[23:20:21.785] Exec: WALK
+[23:20:22.635] Exec: WAIT
+[23:20:23.169] 右に2歩歩きます
+[23:20:23.185] Exec: WALK
+[23:20:24.035] Exec: WAIT
+[23:20:24.571] 上に2歩歩きます
+[23:20:24.586] Exec: WALK
+[23:20:25.438] Exec: WAIT
+[23:20:25.971] 左に2歩歩きます
+[23:20:25.987] Exec: WALK
+[23:20:26.836] Exec: WAIT
+[23:20:27.369] Exec: DIR
+[23:20:27.388] Exec: MOTION
+[23:20:27.403] 四角形移動テスト完了！
+[23:20:27.419] === Script Finished ===
+[23:51:45.626] === Cinematic Engine: KERNEL ACCESS ===
+[23:51:45.642] Exec: WAIT
+[23:51:46.670] テスト開始 - 現在位置を確認
+[23:51:46.687] 下に2歩歩きます
+[23:51:46.698] Exec: WALK
+[23:51:47.547] Exec: WAIT
+[23:51:48.081] 右に2歩歩きます
+[23:51:48.097] Exec: WALK
+[23:51:48.946] Exec: WAIT
+[23:51:49.480] 上に2歩歩きます
+[23:51:49.498] Exec: WALK
+[23:51:50.348] Exec: WAIT
+[23:51:50.880] 左に2歩歩きます
+[23:51:50.898] Exec: WALK
+[23:51:51.750] Exec: WAIT
+[23:51:52.282] Exec: DIR
+[23:51:52.297] Exec: MOTION
+[23:51:52.314] 四角形移動テスト完了！
+[23:51:52.331] === Script Finished ===
+[23:52:41.186] === Cinematic Engine: KERNEL ACCESS ===
+[23:52:41.188] Exec: WAIT
+[23:52:42.221] テスト開始 - 現在位置を確認
+[23:52:42.237] 下に2歩歩きます
+[23:52:42.252] Exec: WALK
+[23:52:43.100] Exec: WAIT
+[23:52:43.634] 右に2歩歩きます
+[23:52:43.649] Exec: WALK
+[23:52:44.500] Exec: WAIT
+[23:52:45.032] 上に2歩歩きます
+[23:52:45.061] Exec: WALK
+[23:52:45.900] Exec: WAIT
+[23:52:46.435] 左に2歩歩きます
+[23:52:46.451] Exec: WALK
+[23:52:47.301] Exec: WAIT
+[23:52:47.832] Exec: DIR
+[23:52:47.851] Exec: MOTION
+[23:52:47.869] 四角形移動テスト完了！
+[23:52:47.886] === Script Finished ===
+[23:55:46.722] === Cinematic Engine: KERNEL ACCESS ===
+[23:55:46.725] Exec: WAIT
+[23:55:47.755] テスト開始 - 現在位置を確認
+[23:55:47.773] 下に2歩歩きます
+[23:55:47.790] Exec: WALK
+[23:55:48.639] Exec: WAIT
+[23:55:49.191] 右に2歩歩きます
+[23:55:49.205] Exec: WALK
+[23:55:50.049] Exec: WAIT
+[23:55:50.574] 上に2歩歩きます
+[23:55:50.588] Exec: WALK
+[23:55:51.438] Exec: WAIT
+[23:55:51.972] 左に2歩歩きます
+[23:55:51.988] Exec: WALK
+[23:55:52.839] Exec: WAIT
+[23:55:53.371] Exec: DIR
+[23:55:53.389] Exec: MOTION
+[23:55:53.406] 四角形移動テスト完了！
+[23:55:53.423] === Script Finished ===
+[23:56:25.508] === Cinematic Engine: SMOOTH ===
+[23:56:25.509] Exec: WAIT
+[23:56:26.540] テスト開始 - 現在位置を確認
+[23:56:26.566] 下に2歩歩きます
+[23:56:26.581] Exec: WALK
+[23:56:27.407] Exec: WAIT
+[23:56:27.939] 右に2歩歩きます
+[23:56:27.958] Exec: WALK
+[23:56:28.790] Exec: WAIT
+[23:56:29.323] 上に2歩歩きます
+[23:56:29.339] Exec: WALK
+[23:56:30.174] Exec: WAIT
+[23:56:30.707] 左に2歩歩きます
+[23:56:30.724] Exec: WALK
+[23:56:31.555] Exec: WAIT
+[23:56:32.089] Exec: DIR
+[23:56:32.106] Exec: MOTION
+[23:56:32.124] 四角形移動テスト完了！
+[23:56:32.141] === Script Finished ===
+[23:59:53.297] === Cinematic Engine: NATIVE WALK ===
+[23:59:53.299] Exec: WAIT
+[23:59:54.346] テスト開始 - 現在位置を確認
+[23:59:54.356] 下に2歩歩きます
+[23:59:54.372] Exec: WALK
+[23:59:54.813] Exec: WAIT
+[23:59:55.345] 右に2歩歩きます
+[23:59:55.362] Exec: WALK
+[23:59:55.812] Exec: WAIT
+[23:59:56.346] 上に2歩歩きます
+[23:59:56.363] Exec: WALK
+[23:59:56.814] Exec: WAIT
+[23:59:57.346] 左に2歩歩きます
+[23:59:57.364] Exec: WALK
+[23:59:57.813] Exec: WAIT
+[23:59:58.347] Exec: DIR
+[23:59:58.363] Exec: MOTION
+[23:59:58.381] 四角形移動テスト完了！
+[23:59:58.398] === Script Finished ===
+[00:01:11.101] === Cinematic Engine: PHYSICS ONLY ===
+[00:01:11.102] Exec: WAIT
+[00:01:12.134] テスト開始 - 現在位置を確認
+[00:01:12.150] 下に2歩歩きます
+[00:01:12.165] Exec: WALK
+[00:01:12.983] Exec: WAIT
+[00:01:13.516] 右に2歩歩きます
+[00:01:13.536] Exec: WALK
+[00:01:14.350] Exec: WAIT
+[00:01:14.888] 上に2歩歩きます
+[00:01:14.912] Exec: WALK
+[00:01:15.716] Exec: WAIT
+[00:01:29.135] === Cinematic Engine: PHYSICS ONLY ===
+[00:01:29.137] Exec: WAIT
+[00:01:30.166] テスト開始 - 現在位置を確認
+[00:01:30.184] 下に2歩歩きます
+[00:01:30.199] Exec: WALK
+[00:01:31.016] Exec: WAIT
+[00:01:31.549] 右に2歩歩きます
+[00:01:31.565] Exec: WALK
+[00:01:32.384] Exec: WAIT
+[00:01:32.918] 上に2歩歩きます
+[00:01:32.933] Exec: WALK
+[00:05:38.359] === Cinematic Engine: PHYSICS ONLY ===
+[00:05:38.364] Exec: WAIT
+[00:05:39.390] テスト開始 - 現在位置を確認
+[00:05:39.408] 下に2歩歩きます
+[00:05:39.426] Exec: WALK
+[00:05:40.240] Exec: WAIT
+[00:05:40.774] 右に2歩歩きます
+[00:05:40.791] Exec: WALK
+[00:05:41.607] Exec: WAIT
+[00:05:42.142] 上に2歩歩きます
+[00:05:42.158] Exec: WALK
+[00:05:42.973] Exec: WAIT
+[00:05:43.507] 左に2歩歩きます
+[00:05:43.525] Exec: WALK
+[00:05:44.340] Exec: WAIT
+[00:05:44.876] Exec: DIR
+[00:05:44.891] Exec: MOTION
+[00:05:44.907] 四角形移動テスト完了！
+[00:05:44.924] === Script Finished ===
+[00:08:54.268] === Cinematic Engine: HYBRID FINAL ===
+[00:08:54.270] Exec: WAIT
+[00:08:55.296] テスト開始 - 現在位置を確認
+[00:08:55.314] 下に2歩歩きます
+[00:08:55.330] Exec: WALK
+[00:08:56.165] Exec: WAIT
+[00:08:56.698] 右に2歩歩きます
+[00:08:56.716] Exec: WALK
+[00:08:57.547] Exec: WAIT
+[00:08:58.080] 上に2歩歩きます
+[00:08:58.097] Exec: WALK
+[00:08:58.930] Exec: WAIT
+[00:08:59.463] 左に2歩歩きます
+[00:08:59.482] Exec: WALK
+[00:09:00.313] Exec: WAIT
+[00:09:00.848] Exec: DIR
+[00:09:00.864] Exec: MOTION
+[00:09:00.881] 四角形移動テスト完了！
+[00:09:00.897] === Script Finished ===
+[00:11:52.421] === Cinematic Engine: HYBRID FINAL ===
+[00:11:52.423] Exec: WAIT
+[00:11:53.452] テスト開始 - 現在位置を確認
+[00:11:53.470] 下に2歩歩きます
+[00:11:53.487] Exec: WALK
+[00:11:54.321] Exec: WAIT
+[00:11:54.865] 右に2歩歩きます
+[00:11:54.877] Exec: WALK
+[00:11:55.704] Exec: WAIT
+[00:11:56.236] 上に2歩歩きます
+[00:11:56.253] Exec: WALK
+[00:11:57.090] Exec: WAIT
+[00:11:57.619] 左に2歩歩きます
+[00:11:57.637] Exec: WALK
+[00:11:58.472] Exec: WAIT
+[00:11:59.007] Exec: DIR
+[00:11:59.021] Exec: MOTION
+[00:11:59.038] 四角形移動テスト完了！
+[00:11:59.053] === Script Finished ===
+[00:15:24.164] === Cinematic Engine: HYBRID FINAL ===
+[00:15:24.166] Exec: WAIT
+[00:15:25.208] テスト開始 - 現在位置を確認
+[00:15:25.222] 下に2歩歩きます
+[00:15:25.237] Exec: WALK
+[00:15:26.060] Exec: WAIT
+[00:15:26.593] 右に2歩歩きます
+[00:15:26.609] Exec: WALK
+[00:15:27.445] Exec: WAIT
+[00:15:27.978] 上に2歩歩きます
+[00:15:27.993] Exec: WALK
+[00:15:28.828] Exec: WAIT
+[00:15:29.359] 左に2歩歩きます
+[00:15:29.378] Exec: WALK
+[00:15:30.209] Exec: WAIT
+[00:15:30.744] Exec: DIR
+[00:15:30.761] Exec: MOTION
+[00:15:30.777] 四角形移動テスト完了！
+[00:15:30.795] === Script Finished ===
+[00:16:26.787] === Cinematic Engine: AXIS CORRECTED ===
+[00:16:26.789] Exec: WAIT
+[00:16:27.813] テスト開始 - 現在位置を確認
+[00:16:27.830] 下に2歩歩きます
+[00:16:27.844] Exec: WALK
+[00:16:28.680] Exec: WAIT
+[00:16:29.211] 右に2歩歩きます
+[00:16:29.229] Exec: WALK
+[00:16:30.062] Exec: WAIT
+[00:16:30.595] 上に2歩歩きます
+[00:16:30.611] Exec: WALK
+[00:16:31.446] Exec: WAIT
+[00:16:31.980] 左に2歩歩きます
+[00:16:31.997] Exec: WALK
+[00:16:32.828] Exec: WAIT
+[00:16:33.363] Exec: DIR
+[00:16:33.380] Exec: MOTION
+[00:16:33.397] 四角形移動テスト完了！
+[00:16:33.417] === Script Finished ===
+[00:17:16.869] === Cinematic Engine: AXIS CORRECTED ===
+[00:17:16.873] Exec: WAIT
+[00:17:17.896] テスト開始 - 現在位置を確認
+[00:17:17.914] 下に2歩歩きます
+[00:17:17.930] Exec: WALK
+[00:17:18.767] Exec: WAIT
+[00:17:19.304] 右に2歩歩きます
+[00:17:19.320] Exec: WALK
+[00:17:20.214] Exec: WAIT
+[00:17:20.798] 上に2歩歩きます
+[00:17:20.814] Exec: WALK
+[00:17:21.655] Exec: WAIT
+[00:17:22.180] 左に2歩歩きます
+[00:17:22.196] Exec: WALK
+[00:17:23.032] Exec: WAIT
+[00:17:23.564] Exec: DIR
+[00:17:23.582] Exec: MOTION
+[00:17:23.601] 四角形移動テスト完了！
+[00:17:23.614] === Script Finished ===
+[00:20:26.724] === Cinematic Engine: AXIS CORRECTED ===
+[00:20:26.725] Exec: WAIT
+[00:20:27.766] テスト開始 - 現在位置を確認
+[00:20:27.781] 下に2歩歩きます
+[00:20:27.796] Exec: WALK
+[00:20:28.619] Exec: WAIT
+[00:20:29.154] 右に2歩歩きます
+[00:20:29.169] Exec: WALK
+[00:20:30.004] Exec: WAIT
+[00:20:30.536] 上に2歩歩きます
+[00:20:30.557] Exec: WALK
+[00:20:31.386] Exec: WAIT
+[00:20:31.919] 左に2歩歩きます
+[00:20:31.936] Exec: WALK
+[00:20:32.772] Exec: WAIT
+[00:20:33.302] Exec: DIR
+[00:20:33.322] Exec: MOTION
+[00:20:33.337] 四角形移動テスト完了！
+[00:20:33.353] === Script Finished ===
+[00:21:11.157] === Cinematic Engine: AXIS CORRECTED ===
+[00:21:11.158] Exec: WAIT
+[00:21:12.189] テスト開始 - 現在位置を確認
+[00:21:12.204] 下に2歩歩きます
+[00:21:12.222] Exec: WALK
+[00:21:13.057] Exec: WAIT
+[00:21:13.589] 右に2歩歩きます
+[00:21:13.606] Exec: WALK
+[00:21:14.438] Exec: WAIT
+[00:21:14.970] 上に2歩歩きます
+[00:21:14.989] Exec: WALK
+[00:21:15.827] Exec: WAIT
+[00:21:16.354] 左に2歩歩きます
+[00:21:16.372] Exec: WALK
+[00:21:17.204] Exec: WAIT
+[00:21:17.738] Exec: DIR
+[00:21:17.755] Exec: MOTION
+[00:21:17.773] 四角形移動テスト完了！
+[00:21:17.787] === Script Finished ===
+[00:21:57.924] === Cinematic Engine: AXIS CORRECTED ===
+[00:21:57.926] Exec: WAIT
+[00:21:58.955] テスト開始 - 現在位置を確認
+[00:21:58.975] 下に2歩歩きます
+[00:21:58.992] Exec: WALK
+[00:21:59.824] Exec: WAIT
+[00:22:00.363] 右に2歩歩きます
+[00:22:00.373] Exec: WALK
+[00:22:01.206] Exec: WAIT
+[00:22:01.742] 上に2歩歩きます
+[00:22:01.755] Exec: WALK
+[00:22:02.589] Exec: WAIT
+[00:22:03.125] 左に2歩歩きます
+[00:22:03.144] Exec: WALK
+[00:22:03.972] Exec: WAIT
+[00:22:04.517] Exec: DIR
+[00:22:04.534] Exec: MOTION
+[00:22:04.550] 四角形移動テスト完了！
+[00:22:04.556] === Script Finished ===
+[00:27:51.473] === Cinematic Engine: CAMERA SYNC ===
+[00:27:51.477] Exec: WAIT
+[00:27:52.519] テスト開始 - 現在位置を確認
+[00:27:52.532] 下に2歩歩きます
+[00:27:52.548] Exec: WALK
+[00:27:53.391] Exec: WAIT
+[00:27:53.900] 右に2歩歩きます
+[00:27:53.917] Exec: WALK
+[00:27:54.751] Exec: WAIT
+[00:27:55.297] 上に2歩歩きます
+[00:27:55.312] Exec: WALK
+[00:27:56.135] Exec: WAIT
+[00:27:56.668] 左に2歩歩きます
+[00:27:56.687] Exec: WALK
+[00:27:57.517] Exec: WAIT
+[00:27:58.052] Exec: DIR
+[00:27:58.067] Exec: MOTION
+[00:27:58.084] 四角形移動テスト完了！
+[00:27:58.101] === Script Finished ===
+[00:28:39.084] === Cinematic Engine: CAMERA SYNC ===
+[00:28:39.087] Exec: WAIT
+[00:28:40.102] テスト開始 - 現在位置を確認
+[00:28:40.121] 下に2歩歩きます
+[00:28:40.136] Exec: WALK
+[00:28:40.970] Exec: WAIT
+[00:28:41.504] 右に2歩歩きます
+[00:28:41.519] Exec: WALK
+[00:28:42.353] Exec: WAIT
+[00:28:42.885] 上に2歩歩きます
+[00:28:42.904] Exec: WALK
+[00:28:43.736] Exec: WAIT
+[00:28:44.269] 左に2歩歩きます
+[00:28:44.286] Exec: WALK
+[00:28:45.118] Exec: WAIT
+[00:28:45.653] Exec: DIR
+[00:28:45.671] Exec: MOTION
+[00:28:45.686] 四角形移動テスト完了！
+[00:28:45.703] === Script Finished ===
+[00:30:06.508] === Cinematic Engine: PURE PHYSICS REVENGED ===
+[00:30:06.510] Exec: WAIT
+[00:30:07.521] テスト開始 - 現在位置を確認
+[00:30:07.539] 下に2歩歩きます
+[00:30:07.556] Exec: WALK
+[00:30:08.356] Exec: WAIT
+[00:30:08.889] 右に2歩歩きます
+[00:30:08.906] Exec: WALK
+[00:30:09.706] Exec: WAIT
+[00:30:10.241] 上に2歩歩きます
+[00:30:10.255] Exec: WALK
+[00:30:11.056] Exec: WAIT
+[00:30:11.597] 左に2歩歩きます
+[00:30:11.610] Exec: WALK
+[00:30:12.405] Exec: WAIT
+[00:30:12.939] Exec: DIR
+[00:30:12.956] Exec: MOTION
+[00:30:12.975] 四角形移動テスト完了！
+[00:30:12.990] === Script Finished ===
+[00:32:41.465] === Cinematic Engine: ANIMATED ===
+[00:32:41.467] Exec: WAIT
+[00:32:42.494] テスト開始 - 現在位置を確認
+[00:32:42.510] 下に2歩歩きます
+[00:32:42.527] Exec: WALK
+[00:32:43.329] Exec: WAIT
+[00:32:43.862] 右に2歩歩きます
+[00:32:43.878] Exec: WALK
+[00:32:44.677] Exec: WAIT
+[00:32:45.223] 上に2歩歩きます
+[00:32:45.253] Exec: WALK
+[00:32:46.029] Exec: WAIT
+[00:32:46.562] 左に2歩歩きます
+[00:32:46.580] Exec: WALK
+[00:32:47.379] Exec: WAIT
+[00:32:47.911] Exec: DIR
+[00:32:47.968] Exec: MOTION
+[00:32:47.979] 四角形移動テスト完了！
+[00:32:47.990] === Script Finished ===
+[00:34:33.522] === Cinematic Engine: FINAL POLISH ===
+[00:34:33.526] Exec: WAIT
+[00:34:34.549] テスト開始 - 現在位置を確認
+[00:34:34.564] 下に2歩歩きます
+[00:34:34.582] Exec: WALK
+[00:34:35.365] Exec: WAIT
+[00:34:35.909] 右に2歩歩きます
+[00:34:35.927] Exec: WALK
+[00:34:36.697] Exec: WAIT
+[00:34:37.250] 上に2歩歩きます
+[00:34:37.265] Exec: WALK
+[00:34:38.030] Exec: WAIT
+[00:34:38.575] 左に2歩歩きます
+[00:34:38.590] Exec: WALK
+[00:34:39.363] Exec: WAIT
+[00:34:39.898] Exec: DIR
+[00:34:39.916] Exec: MOTION
+[00:34:39.930] 四角形移動テスト完了！
+[00:34:39.950] === Script Finished ===
+[00:36:28.769] === Cinematic Engine: AXIS FINAL CALIBRATION ===
+[00:36:28.771] Exec: WAIT
+[00:36:29.801] テスト開始 - 現在位置を確認
+[00:36:29.819] 下に2歩歩きます
+[00:36:29.853] Exec: WALK
+[00:36:30.617] Exec: WAIT
+[00:36:31.151] 右に2歩歩きます
+[00:36:31.169] Exec: WALK
+[00:36:31.951] Exec: WAIT
+[00:36:32.484] 上に2歩歩きます
+[00:36:32.500] Exec: WALK
+[00:36:33.284] Exec: WAIT
+[00:36:33.817] 左に2歩歩きます
+[00:36:33.835] Exec: WALK
+[00:36:34.620] Exec: WAIT
+[00:36:35.153] Exec: DIR
+[00:36:35.170] Exec: MOTION
+[00:36:35.184] 四角形移動テスト完了！
+[00:36:35.201] === Script Finished ===
+[00:39:52.310] === Cinematic Engine: REVERSE LOGIC ===
+[00:39:52.312] Exec: WAIT
+[00:39:53.346] テスト開始 - 現在位置を確認
+[00:39:53.362] 下に2歩歩きます
+[00:39:53.377] Exec: WALK
+[00:39:54.158] Exec: WAIT
+[00:39:54.691] 右に2歩歩きます
+[00:39:54.710] Exec: WALK
+[00:39:55.492] Exec: WAIT
+[00:39:56.027] 上に2歩歩きます
+[00:39:56.042] Exec: WALK
+[00:39:56.824] Exec: WAIT
+[00:39:57.358] 左に2歩歩きます
+[00:39:57.374] Exec: WALK
+[00:39:58.160] Exec: WAIT
+[00:39:58.690] Exec: DIR
+[00:39:58.710] Exec: MOTION
+[00:39:58.726] 四角形移動テスト完了！
+[00:39:58.741] === Script Finished ===
+[00:41:11.997] === Cinematic Engine: ANGLE INVERTED ===
+[00:41:11.999] Exec: WAIT
+[00:41:13.028] テスト開始 - 現在位置を確認
+[00:41:13.044] 下に2歩歩きます
+[00:41:13.061] Exec: WALK
+[00:41:13.843] Exec: WAIT
+[00:41:14.378] 右に2歩歩きます
+[00:41:14.394] Exec: WALK
+[00:41:15.177] Exec: WAIT
+[00:41:15.719] 上に2歩歩きます
+[00:41:15.735] Exec: WALK
+[00:41:16.512] Exec: WAIT
+[00:41:17.042] 左に2歩歩きます
+[00:41:17.063] Exec: WALK
+[00:41:17.845] Exec: WAIT
+[00:41:18.380] Exec: DIR
+[00:41:18.393] Exec: MOTION
+[00:41:18.412] 四角形移動テスト完了！
+[00:41:18.427] === Script Finished ===
+[00:41:34.212] === Cinematic Engine: ANGLE INVERTED ===
+[00:41:34.214] Exec: WAIT
+[00:41:35.246] テスト開始 - 現在位置を確認
+[00:41:35.260] 下に2歩歩きます
+[00:41:35.278] Exec: WALK
+[00:41:36.063] Exec: WAIT
+[00:41:36.613] 右に2歩歩きます
+[00:41:36.628] Exec: WALK
+[00:41:37.394] Exec: WAIT
+[00:41:37.928] 上に2歩歩きます
+[00:41:37.944] Exec: WALK
+[00:41:38.728] Exec: WAIT
+[00:41:39.260] 左に2歩歩きます
+[00:41:39.279] Exec: WALK
+[00:41:40.062] Exec: WAIT
+[00:41:40.594] Exec: DIR
+[00:41:40.612] Exec: MOTION
+[00:41:40.629] 四角形移動テスト完了！
+[00:41:40.645] === Script Finished ===
+[00:43:12.599] === Cinematic Engine: ALL GREEN ===
+[00:43:12.601] Exec: WAIT
+[00:43:13.634] テスト開始 - 現在位置を確認
+[00:43:13.649] 下に2歩歩きます
+[00:43:13.666] Exec: WALK
+[00:43:14.447] Exec: WAIT
+[00:43:14.980] 右に2歩歩きます
+[00:43:14.998] Exec: WALK
+[00:43:15.782] Exec: WAIT
+[00:43:16.315] 上に2歩歩きます
+[00:43:16.331] Exec: WALK
+[00:43:17.114] Exec: WAIT
+[00:43:17.660] 左に2歩歩きます
+[00:43:17.677] Exec: WALK
+[00:43:18.447] Exec: WAIT
+[00:43:18.984] Exec: DIR
+[00:43:18.997] Exec: MOTION
+[00:43:19.015] 四角形移動テスト完了！
+[00:43:19.031] === Script Finished ===
+[00:44:53.453] === Cinematic Engine: FORCE DIRECTION ===
+[00:44:53.455] Exec: WAIT
+[00:44:54.511] テスト開始 - 現在位置を確認
+[00:44:54.526] 下に2歩歩きます
+[00:44:54.542] Exec: WALK
+[00:44:55.322] Exec: WAIT
+[00:44:55.852] 右に2歩歩きます
+[00:44:55.870] Exec: WALK
+[00:44:56.651] Exec: WAIT
+[00:44:57.187] 上に2歩歩きます
+[00:44:57.202] Exec: WALK
+[00:44:58.050] Exec: WAIT
+[00:44:58.584] 左に2歩歩きます
+[00:44:58.602] Exec: WALK
+[00:44:59.387] Exec: WAIT
+[00:44:59.923] Exec: DIR
+[00:44:59.935] Exec: MOTION
+[00:44:59.952] 四角形移動テスト完了！
+[00:44:59.968] === Script Finished ===
+[00:53:43.071] === Cinematic Engine: LEGENDARY REVIVAL ===
+[00:53:43.073] Exec: WAIT
+[00:53:44.101] 回転テスト開始
+[00:53:44.118] DIR 0 (奥)
+[00:53:44.136] Exec: DIR
+[00:53:44.153] Exec: WAIT
+[00:53:44.688] DIR 45
+[00:53:44.708] Exec: DIR
+[00:53:44.719] Exec: WAIT
+[00:53:45.253] DIR 90 (左)
+[00:53:45.268] Exec: DIR
+[00:53:45.285] Exec: WAIT
+[00:53:45.817] DIR 135
+[00:53:45.835] Exec: DIR
+[00:53:45.851] Exec: WAIT
+[00:53:46.384] DIR 180 (手前)
+[00:53:46.401] Exec: DIR
+[00:53:46.420] Exec: WAIT
+[00:53:46.951] DIR 225
+[00:53:46.969] Exec: DIR
+[00:53:46.984] Exec: WAIT
+[00:53:47.519] DIR 270 (右)
+[00:53:47.535] Exec: DIR
+[00:53:47.554] Exec: WAIT
+[00:53:48.086] DIR 315
+[00:53:48.103] Exec: DIR
+[00:53:48.118] Exec: WAIT
+[00:53:48.652] 回転テスト終了
+[00:53:48.669] === Script Finished ===
+[00:54:02.471] === Cinematic Engine: LEGENDARY REVIVAL ===
+[00:54:02.473] Exec: WAIT
+[00:54:03.501] 回転テスト開始
+[00:54:03.520] DIR 0 (奥)
+[00:54:03.536] Exec: DIR
+[00:54:03.551] Exec: WAIT
+[00:54:04.084] DIR 45
+[00:54:04.102] Exec: DIR
+[00:54:04.119] Exec: WAIT
+[00:54:04.652] DIR 90 (左)
+[00:54:04.669] Exec: DIR
+[00:54:04.687] Exec: WAIT
+[00:54:05.220] DIR 135
+[00:54:05.238] Exec: DIR
+[00:54:05.253] Exec: WAIT
+[00:54:05.786] DIR 180 (手前)
+[00:54:05.801] Exec: DIR
+[00:54:05.819] Exec: WAIT
+[00:55:33.741] === Cinematic Engine: ANGLE SWAPPED ===
+[00:55:33.744] Exec: WAIT
+[00:55:34.771] 四角形移動テスト開始
+[00:55:34.789] 手前へ移動
+[00:55:34.804] Exec: WALK
+[00:55:35.638] Exec: WAIT
+[00:55:36.171] 右へ移動
+[00:55:36.188] Exec: WALK
+[00:55:37.023] Exec: WAIT
+[00:55:37.556] 奥へ移動
+[00:55:37.574] Exec: WALK
+[00:55:38.405] Exec: WAIT
+[00:55:38.939] 左へ移動（元の位置へ）
+[00:55:38.955] Exec: WALK
+[00:55:39.788] Exec: WAIT
+[00:55:40.327] Exec: DIR
+[00:55:40.341] Exec: MOTION
+[00:55:40.357] テスト完了
+[00:55:40.373] === Script Finished ===
+[00:57:44.077] === Cinematic Engine: ANGLE SWAPPED ===
+[00:57:44.080] Exec: WAIT
+[00:57:45.110] 四角形移動テスト開始
+[00:57:45.126] 手前へ移動
+[00:57:45.143] Exec: WALK
+[00:57:45.975] Exec: WAIT
+[00:57:46.510] 右へ移動
+[00:57:46.526] Exec: WALK
+[00:57:47.359] Exec: WAIT
+[00:57:47.892] 奥へ移動
+[00:57:47.909] Exec: WALK
+[00:57:48.742] Exec: WAIT
+[00:57:49.276] 左へ移動（元の位置へ）
+[00:57:49.292] Exec: WALK
+[00:57:50.126] Exec: WAIT
+[00:57:50.660] Exec: DIR
+[00:57:50.676] Exec: MOTION
+[00:57:50.695] テスト完了
+[00:57:50.712] === Script Finished ===
+[01:02:05.936] Loaded 28 commands
+[01:02:05.937] === HD2D Cinematic Director v2.0 ===
+[01:02:05.938] Hero: X=15.50 Z=22.50
+[01:02:05.943] >> WAIT
+[01:02:06.967] === 向きテスト開始 ===
+[01:02:06.987] DIR 0 (期待: 奥/北を向く)
+[01:02:07.003] >> DIR
+[01:02:07.019] >> WAIT
+[01:02:09.053] DIR 90 (期待: 左を向く)
+[01:02:09.070] >> DIR
+[01:02:09.084] >> WAIT
+[01:02:11.119] DIR 180 (期待: 手前/南を向く)
+[01:02:11.135] >> DIR
+[01:02:11.152] >> WAIT
+[01:02:13.184] DIR 270 (期待: 右を向く)
+[01:02:13.202] >> DIR
+[01:02:13.218] >> WAIT
+[01:02:15.253] DIR 45
+[01:02:15.269] >> DIR
+[01:02:15.287] >> WAIT
+[01:02:16.819] DIR 135
+[01:02:16.835] >> DIR
+[01:02:16.852] >> WAIT
+[01:02:18.385] DIR 225
+[01:02:18.401] >> DIR
+[01:02:18.419] >> WAIT
+[01:02:19.952] DIR 315
+[01:02:19.968] >> DIR
+[01:02:19.986] >> WAIT
+[01:02:21.520] >> DIR
+[01:02:21.535] === テスト完了 ===
+[01:02:21.552] === Script Complete ===
+[01:03:14.622] Loaded 28 commands
+[01:03:14.622] === HD2D Cinematic Director v2.0 ===
+[01:03:14.623] Hero: X=15.50 Z=22.50
+[01:03:14.629] >> WAIT
+[01:03:15.674] === 向きテスト開始 ===
+[01:03:15.679] DIR 0 (期待: 奥/北を向く)
+[01:03:15.705] >> DIR
+[01:03:15.720] >> WAIT
+[01:03:17.738] DIR 90 (期待: 左を向く)
+[01:03:17.753] >> DIR
+[01:03:17.770] >> WAIT
+[01:03:19.819] DIR 180 (期待: 手前/南を向く)
+[01:03:19.832] >> DIR
+[01:03:19.863] >> WAIT
+[01:03:21.871] DIR 270 (期待: 右を向く)
+[01:03:21.887] >> DIR
+[01:03:21.904] >> WAIT
+[01:03:23.942] DIR 45
+[01:03:23.957] >> DIR
+[01:03:23.976] >> WAIT
+[01:03:25.503] DIR 135
+[01:03:25.522] >> DIR
+[01:03:25.539] >> WAIT
+[01:03:27.086] DIR 225
+[01:03:27.103] >> DIR
+[01:03:27.120] >> WAIT
+[01:03:28.653] DIR 315
+[01:03:28.671] >> DIR
+[01:03:28.688] >> WAIT
+[01:03:30.223] >> DIR
+[01:03:30.237] === テスト完了 ===
+[01:03:30.254] === Script Complete ===
+[01:04:18.473] Loaded 21 commands
+[01:04:18.474] === HD2D Cinematic Director v2.0 ===
+[01:04:18.475] Hero: X=15.50 Z=22.50
+[01:04:18.478] >> WAIT
+[01:04:19.505] === 向きテスト v2 (整数) ===
+[01:04:19.523] DIR 0
+[01:04:19.539] >> DIR
+[01:04:19.557] >> WAIT
+[01:04:21.610] DIR 1
+[01:04:21.626] >> DIR
+[01:04:21.641] >> WAIT
+[01:04:23.674] DIR 2
+[01:04:23.688] >> DIR
+[01:04:23.707] >> WAIT
+[01:04:25.739] DIR 3
+[01:04:25.755] >> DIR
+[01:04:25.773] >> WAIT
+[01:04:27.805] DIR 4
+[01:04:27.823] >> DIR
+[01:04:27.840] >> WAIT
+[01:04:29.872] DIR -1
+[01:04:29.889] >> DIR
+[01:04:29.906] >> WAIT
+[01:04:31.939] === テスト完了 ===
+[01:04:31.957] === Script Complete ===
+[01:04:53.849] Loaded 21 commands
+[01:04:53.849] === HD2D Cinematic Director v2.0 ===
+[01:04:53.850] Hero: X=15.50 Z=22.50
+[01:04:53.853] >> WAIT
+[01:04:54.873] === 向きテスト v2 (整数) ===
+[01:04:54.891] DIR 0
+[01:04:54.906] >> DIR
+[01:04:54.924] >> WAIT
+[01:04:56.956] DIR 1
+[01:04:56.975] >> DIR
+[01:04:56.991] >> WAIT
+[01:04:59.024] DIR 2
+[01:04:59.040] >> DIR
+[01:04:59.057] >> WAIT
+[01:05:01.091] DIR 3
+[01:05:01.107] >> DIR
+[01:05:01.126] >> WAIT
+[01:05:03.158] DIR 4
+[01:05:03.173] >> DIR
+[01:05:03.191] >> WAIT
+[01:05:05.242] DIR -1
+[01:05:05.258] >> DIR
+[01:05:05.276] >> WAIT
+[01:05:07.306] === テスト完了 ===
+[01:05:07.325] === Script Complete ===
+[01:06:57.545] Loaded 17 commands
+[01:06:57.546] === HD2D Cinematic Director v2.1 ===
+[01:06:57.547] Hero: X=15.50 Z=22.50
+[01:06:57.550] >> WAIT
+[01:06:58.578] === 四角形歩行テスト開始 ===
+[01:06:58.594] 手前(DOWN)へ2歩
+[01:06:58.612] >> WALK
+[01:06:58.614] Walk DOWN x2 (dir=1)
+[01:06:59.427] Arrived: X=15.50 Z=24.50
+[01:06:59.445] >> WAIT
+[01:06:59.978] 右(RIGHT)へ2歩
+[01:06:59.995] >> WALK
+[01:06:59.996] Walk RIGHT x2 (dir=2)
+[01:07:00.812] Arrived: X=17.50 Z=24.50
+[01:07:00.828] >> WAIT
+[01:07:01.362] 奥(UP)へ2歩
+[01:07:01.377] >> WALK
+[01:07:01.378] Walk UP x2 (dir=0)
+[01:07:02.193] Arrived: X=17.50 Z=22.50
+[01:07:02.211] >> WAIT
+[01:07:02.743] 左(LEFT)へ2歩
+[01:07:02.762] >> WALK
+[01:07:02.763] Walk LEFT x2 (dir=3)
+[01:07:03.578] Arrived: X=15.50 Z=22.50
+[01:07:03.595] >> WAIT
+[01:07:04.127] >> FACE
+[01:07:04.128] Face: DOWN (dir=1)
+[01:07:04.153] >> MOTION
+[01:07:04.168] === 四角形歩行テスト完了 ===
+[01:07:04.186] === Script Complete ===
+[01:07:38.692] Loaded 17 commands
+[01:07:38.693] === HD2D Cinematic Director v2.1 ===
+[01:07:38.693] Hero: X=15.50 Z=19.50
+[01:07:38.697] >> WAIT
+[01:07:39.711] === 四角形歩行テスト開始 ===
+[01:07:39.729] 手前(DOWN)へ2歩
+[01:07:39.745] >> WALK
+[01:07:39.746] Walk DOWN x2 (dir=1)
+[01:07:40.564] Arrived: X=15.50 Z=21.50
+[01:07:40.582] >> WAIT
+[01:07:41.112] 右(RIGHT)へ2歩
+[01:07:41.128] >> WALK
+[01:07:41.129] Walk RIGHT x2 (dir=2)
+[01:07:41.946] Arrived: X=17.50 Z=21.50
+[01:07:41.962] >> WAIT
+[01:07:42.499] 奥(UP)へ2歩
+[01:07:42.515] >> WALK
+[01:07:42.516] Walk UP x2 (dir=0)
+[01:07:43.329] Arrived: X=17.50 Z=19.50
+[01:07:43.346] >> WAIT
+[01:07:43.878] 左(LEFT)へ2歩
+[01:07:43.896] >> WALK
+[01:07:43.896] Walk LEFT x2 (dir=3)
+[01:07:44.712] Arrived: X=15.50 Z=19.50
+[01:07:44.730] >> WAIT
+[01:07:45.263] >> FACE
+[01:07:45.264] Face: DOWN (dir=1)
+[01:07:45.289] >> MOTION
+[01:07:45.295] === 四角形歩行テスト完了 ===
+[01:07:45.311] === Script Complete ===
+[01:08:00.662] Loaded 17 commands
+[01:08:00.663] === HD2D Cinematic Director v2.1 ===
+[01:08:00.663] Hero: X=15.50 Z=19.50
+[01:08:00.667] >> WAIT
+[01:08:01.680] === 四角形歩行テスト開始 ===
+[01:08:01.706] 手前(DOWN)へ2歩
+[01:08:01.721] >> WALK
+[01:08:01.722] Walk DOWN x2 (dir=1)
+[01:08:02.550] Arrived: X=15.50 Z=21.50
+[01:08:02.565] >> WAIT
+[01:08:03.080] 右(RIGHT)へ2歩
+[01:08:03.097] >> WALK
+[01:08:03.098] Walk RIGHT x2 (dir=2)
+[01:08:03.912] Arrived: X=17.50 Z=21.50
+[01:08:03.929] >> WAIT
+[01:08:04.462] 奥(UP)へ2歩
+[01:08:04.480] >> WALK
+[01:08:04.480] Walk UP x2 (dir=0)
+[01:08:05.296] Arrived: X=17.50 Z=19.50
+[01:08:05.313] >> WAIT
+[01:08:05.847] 左(LEFT)へ2歩
+[01:08:05.862] >> WALK
+[01:08:05.863] Walk LEFT x2 (dir=3)
+[01:08:06.681] Arrived: X=15.50 Z=19.50
+[01:08:06.698] >> WAIT
+[01:08:07.231] >> FACE
+[01:08:07.232] Face: DOWN (dir=1)
+[01:08:07.252] >> MOTION
+[01:08:07.262] === 四角形歩行テスト完了 ===
+[01:08:07.280] === Script Complete ===
+[01:11:40.205] Loaded 17 commands
+[01:11:40.206] === HD2D Cinematic Director v2.1 ===
+[01:11:40.207] Hero: X=15.50 Z=19.50
+[01:11:40.210] >> WAIT
+[01:11:41.236] === 四角形歩行テスト開始 ===
+[01:11:41.256] 手前(DOWN)へ2歩
+[01:11:41.272] >> WALK
+[01:11:41.273] Walk DOWN x2 (dir=1)
+[01:11:42.087] Arrived: X=15.50 Z=21.50
+[01:11:42.102] >> WAIT
+[01:11:42.636] 右(RIGHT)へ2歩
+[01:11:42.653] >> WALK
+[01:11:42.654] Walk RIGHT x2 (dir=2)
+[01:11:43.469] Arrived: X=17.50 Z=21.50
+[01:11:43.487] >> WAIT
+[01:11:44.019] 奥(UP)へ2歩
+[01:11:44.037] >> WALK
+[01:11:44.038] Walk UP x2 (dir=0)
+[01:11:44.857] Arrived: X=17.50 Z=19.50
+[01:11:44.871] >> WAIT
+[01:11:45.402] 左(LEFT)へ2歩
+[01:11:45.422] >> WALK
+[01:11:45.423] Walk LEFT x2 (dir=3)
+[01:11:46.236] Arrived: X=15.50 Z=19.50
+[01:11:46.253] >> WAIT
+[01:11:46.786] >> FACE
+[01:11:46.787] Face: DOWN (dir=1)
+[01:11:46.804] >> MOTION
+[01:11:46.822] === 四角形歩行テスト完了 ===
+[01:11:46.837] === Script Complete ===
+[01:11:59.823] Loaded 17 commands
+[01:11:59.823] === HD2D Cinematic Director v2.1 ===
+[01:11:59.824] Hero: X=15.50 Z=19.50
+[01:11:59.827] >> WAIT
+[01:12:00.854] === 四角形歩行テスト開始 ===
+[01:12:00.870] 手前(DOWN)へ2歩
+[01:12:00.887] >> WALK
+[01:12:00.889] Walk DOWN x2 (dir=1)
+[01:12:01.706] Arrived: X=15.50 Z=21.50
+[01:12:01.719] >> WAIT
+[01:12:02.255] 右(RIGHT)へ2歩
+[01:12:02.273] >> WALK
+[01:12:02.273] Walk RIGHT x2 (dir=2)
+[01:12:03.088] Arrived: X=17.50 Z=21.50
+[01:12:03.105] >> WAIT
+[01:12:03.636] 奥(UP)へ2歩
+[01:12:03.653] >> WALK
+[01:12:03.654] Walk UP x2 (dir=0)
+[01:12:04.469] Arrived: X=17.50 Z=19.50
+[01:12:04.487] >> WAIT
+[01:12:05.020] 左(LEFT)へ2歩
+[01:12:05.037] >> WALK
+[01:12:05.038] Walk LEFT x2 (dir=3)
+[01:12:05.855] Arrived: X=15.50 Z=19.50
+[01:12:05.872] >> WAIT
+[01:12:06.405] >> FACE
+[01:12:06.406] Face: DOWN (dir=1)
+[01:12:06.422] >> MOTION
+[01:12:06.437] === 四角形歩行テスト完了 ===
+[01:12:06.454] === Script Complete ===
+[01:16:26.447] Loaded 17 commands
+[01:16:26.447] === HD2D Director v2.2 (Move method) ===
+[01:16:26.448] Hero: X=15.50 Z=19.50
+[01:16:26.450] >> WAIT
+[01:16:27.488] === 四角形歩行テスト開始 ===
+[01:16:27.502] 手前(DOWN)へ2歩
+[01:16:27.517] >> WALK
+[01:16:27.519] Walk DOWN x2 -> target: 15.5,21.5
+[01:16:28.011] Arrived
+[01:16:28.029] >> WAIT
+[01:16:28.564] 右(RIGHT)へ2歩
+[01:16:28.579] >> WALK
+[01:16:28.580] Walk RIGHT x2 -> target: 17.5,21.4
+[01:16:29.078] Arrived
+[01:16:29.098] >> WAIT
+[01:16:29.628] 奥(UP)へ2歩
+[01:16:29.648] >> WALK
+[01:16:29.648] Walk UP x2 -> target: 17.4,19.4
+[01:16:30.145] Arrived
+[01:16:30.163] >> WAIT
+[01:16:30.696] 左(LEFT)へ2歩
+[01:16:30.713] >> WALK
+[01:16:30.714] Walk LEFT x2 -> target: 15.4,19.5
+[01:16:31.223] Arrived
+[01:16:31.237] >> WAIT
+[01:16:31.764] >> FACE
+[01:16:31.779] >> MOTION
+[01:16:31.797] === 四角形歩行テスト完了 ===
+[01:16:31.812] === Complete ===
+[01:16:47.199] Loaded 17 commands
+[01:16:47.200] === HD2D Director v2.2 (Move method) ===
+[01:16:47.200] Hero: X=15.50 Z=19.50
+[01:16:47.202] >> WAIT
+[01:16:48.229] === 四角形歩行テスト開始 ===
+[01:16:48.248] 手前(DOWN)へ2歩
+[01:16:48.262] >> WALK
+[01:16:48.264] Walk DOWN x2 -> target: 15.5,21.5
+[01:16:48.762] Arrived
+[01:16:48.780] >> WAIT
+[01:16:49.313] 右(RIGHT)へ2歩
+[01:16:49.330] >> WALK
+[01:16:49.330] Walk RIGHT x2 -> target: 17.5,21.4
+[01:16:49.832] Arrived
+[01:16:49.846] >> WAIT
+[01:16:50.383] 奥(UP)へ2歩
+[01:16:50.398] >> WALK
+[01:16:50.398] Walk UP x2 -> target: 17.4,19.4
+[01:16:50.896] Arrived
+[01:16:50.913] >> WAIT
+[01:16:51.447] 左(LEFT)へ2歩
+[01:16:51.465] >> WALK
+[01:16:51.465] Walk LEFT x2 -> target: 15.4,19.5
+[01:16:51.963] Arrived
+[01:16:51.981] >> WAIT
+[01:16:52.520] >> FACE
+[01:16:52.534] >> MOTION
+[01:16:52.549] === 四角形歩行テスト完了 ===
+[01:16:52.565] === Complete ===
+[01:17:46.816] Loaded 17 commands
+[01:17:46.816] === HD2D Director v2.2 (Move method) ===
+[01:17:46.818] Hero: X=15.50 Z=19.50
+[01:17:46.820] >> WAIT
+[01:17:47.850] === 四角形歩行テスト開始 ===
+[01:17:47.866] 手前(DOWN)へ2歩
+[01:17:47.884] >> WALK
+[01:17:47.885] Walk DOWN x2 -> target: 15.5,21.5
+[01:17:48.391] Arrived
+[01:17:48.408] >> WAIT
+[01:17:48.931] 右(RIGHT)へ2歩
+[01:17:48.948] >> WALK
+[01:17:48.949] Walk RIGHT x2 -> target: 17.5,21.4
+[01:17:49.474] Arrived
+[01:17:49.487] >> WAIT
+[01:17:49.999] 奥(UP)へ2歩
+[01:17:50.017] >> WALK
+[01:17:50.018] Walk UP x2 -> target: 17.4,19.4
+[01:17:50.518] Arrived
+[01:17:50.534] >> WAIT
+[01:17:51.065] 左(LEFT)へ2歩
+[01:17:51.082] >> WALK
+[01:17:51.083] Walk LEFT x2 -> target: 15.4,19.5
+[01:17:51.582] Arrived
+[01:17:51.600] >> WAIT
+[01:17:52.132] >> FACE
+[01:17:52.150] >> MOTION
+[01:17:52.165] === 四角形歩行テスト完了 ===
+[01:17:52.182] === Complete ===
+[01:19:22.536] Loaded 16 commands
+[01:19:22.537] === HD2D Director v2.2 (Move method) ===
+[01:19:22.538] Hero: X=15.50 Z=19.50
+[01:19:22.540] >> WAIT
+[01:19:23.571] テスト開始
+[01:19:23.585] DOWN - 手前へ
+[01:19:23.602] >> WALK
+[01:19:23.604] Walk DOWN x2 -> target: 15.5,21.5
+[01:19:24.103] Arrived
+[01:19:24.118] >> WAIT
+[01:19:25.153] RIGHT - 右へ
+[01:19:25.169] >> WALK
+[01:19:25.170] Walk RIGHT x2 -> target: 17.5,21.4
+[01:19:25.673] Arrived
+[01:19:25.687] >> WAIT
+[01:19:26.736] UP - 奥へ
+[01:19:26.752] >> WALK
+[01:19:26.752] Walk UP x2 -> target: 17.4,19.4
+[01:19:27.237] Arrived
+[01:19:27.252] >> WAIT
+[01:19:28.285] LEFT - 左へ
+[01:19:28.301] >> WALK
+[01:19:28.302] Walk LEFT x2 -> target: 15.4,19.5
+[01:19:28.802] Arrived
+[01:19:28.818] >> WAIT
+[01:19:29.853] >> FACE
+[01:19:29.869] 完了
+[01:19:29.886] === Complete ===
+[01:19:48.821] Loaded 16 commands
+[01:19:48.822] === HD2D Director v2.2 (Move method) ===
+[01:19:48.823] Hero: X=15.50 Z=19.50
+[01:19:48.824] >> WAIT
+[01:19:49.852] テスト開始
+[01:19:49.872] DOWN - 手前へ
+[01:19:49.886] >> WALK
+[01:19:49.887] Walk DOWN x2 -> target: 15.5,21.5
+[01:19:50.386] Arrived
+[01:19:50.405] >> WAIT
+[01:19:51.436] RIGHT - 右へ
+[01:19:51.452] >> WALK
+[01:19:51.453] Walk RIGHT x2 -> target: 17.5,21.4
+[01:19:51.954] Arrived
+[01:19:51.969] >> WAIT
+[01:19:53.002] UP - 奥へ
+[01:19:53.020] >> WALK
+[01:19:53.020] Walk UP x2 -> target: 17.4,19.4
+[01:19:53.520] Arrived
+[01:19:53.536] >> WAIT
+[01:19:54.581] LEFT - 左へ
+[01:19:54.594] >> WALK
+[01:19:54.594] Walk LEFT x2 -> target: 15.4,19.5
+[01:19:55.086] Arrived
+[01:19:55.103] >> WAIT
+[01:19:56.136] >> FACE
+[01:19:56.153] 完了
+[01:19:56.169] === Complete ===
+[01:20:12.522] Loaded 16 commands
+[01:20:12.523] === HD2D Director v2.2 (Move method) ===
+[01:20:12.524] Hero: X=15.50 Z=19.50
+[01:20:12.526] >> WAIT
+[01:20:13.555] テスト開始
+[01:20:13.571] DOWN - 手前へ
+[01:20:13.587] >> WALK
+[01:20:13.589] Walk DOWN x2 -> target: 15.5,21.5
+[01:20:14.087] Arrived
+[01:20:14.106] >> WAIT
+[01:20:15.137] RIGHT - 右へ
+[01:20:15.155] >> WALK
+[01:20:15.155] Walk RIGHT x2 -> target: 17.5,21.4
+[01:20:15.653] Arrived
+[01:20:15.670] >> WAIT
+[01:20:16.703] UP - 奥へ
+[01:20:16.721] >> WALK
+[01:20:16.721] Walk UP x2 -> target: 17.4,19.4
+[01:20:17.220] Arrived
+[01:20:17.236] >> WAIT
+[01:20:18.271] LEFT - 左へ
+[01:20:18.286] >> WALK
+[01:20:18.287] Walk LEFT x2 -> target: 15.4,19.5
+[01:20:18.786] Arrived
+[01:20:18.805] >> WAIT
+[01:20:19.836] >> FACE
+[01:20:19.854] 完了
+[01:20:19.870] === Complete ===
+[01:21:42.576] Loaded 16 commands
+[01:21:42.576] === HD2D Director v2.2 (Move method) ===
+[01:21:42.577] Hero: X=15.50 Z=19.50
+[01:21:42.579] >> WAIT
+[01:21:43.606] テスト開始
+[01:21:43.622] DOWN - 手前へ
+[01:21:43.640] >> WALK
+[01:21:43.642] Walk DOWN x2 -> target: 15.5,21.5
+[01:21:44.139] Arrived
+[01:21:44.156] >> WAIT
+[01:21:45.190] RIGHT - 右へ
+[01:21:45.207] >> WALK
+[01:21:45.208] Walk RIGHT x2 -> target: 17.5,21.4
+[01:21:45.706] Arrived
+[01:21:45.723] >> WAIT
+[01:21:46.755] UP - 奥へ
+[01:21:46.785] >> WALK
+[01:21:46.786] Walk UP x2 -> target: 17.4,19.4
+[01:21:47.278] Arrived
+[01:21:47.293] >> WAIT
+[01:21:48.323] LEFT - 左へ
+[01:21:48.340] >> WALK
+[01:21:48.341] Walk LEFT x2 -> target: 15.4,19.5
+[01:21:48.846] Arrived
+[01:21:48.862] >> WAIT
+[01:21:49.891] >> FACE
+[01:21:49.907] 完了
+[01:21:49.924] === Complete ===
+[01:27:40.689] Loaded 12 commands
+[01:27:40.690] === HD2D Director v2.3 (Talk support) ===
+[01:27:40.690] Hero: X=15.50 Z=19.50
+[01:27:40.692] >> WAIT
+[01:27:41.717] 会話テスト開始
+[01:27:41.735] >> WALK
+[01:27:41.736] Walk DOWN x2
+[01:27:42.238] Arrived
+[01:27:42.253] >> WAIT
+[01:27:42.783] >> SAY
+[01:27:42.785] ShowMessage: 【勇者】
+こんにちは！これはテストメッセージです。
+[01:27:42.839] ShowMessage called successfully
+[01:27:42.853] Talk ended
+[01:27:42.858] >> WAIT
+[01:27:43.384] >> SAY
+[01:27:43.385] ShowMessage: 【村人】
+ようこそ！旅のお方。
+[01:27:43.391] ShowMessage called successfully
+[01:27:43.402] Talk ended
+[01:27:43.417] >> WAIT
+[01:27:43.950] >> MSG
+[01:27:43.951] ShowMessage: ナレーション：静かな村だった...
+[01:27:43.957] ShowMessage called successfully
+[01:27:43.971] Talk ended
+[01:27:43.984] >> WALK
+[01:27:43.985] Walk UP x2
+[01:27:44.484] Arrived
+[01:27:44.501] >> FACE
+[01:27:44.520] テスト完了
+[01:27:44.534] === Complete ===

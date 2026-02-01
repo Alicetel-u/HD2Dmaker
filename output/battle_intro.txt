@@ -1,0 +1,21 @@
+# ボス戦イントロ
+
+BGM fade 1.0
+WAIT 1.5
+
+CAMERA_ZOOM 0.8 1.0
+WAIT 0.5
+SAY ??? "よく来たな、勇者よ..."
+
+CAMERA_SHAKE 3 1.0
+FLASH 255 255 255 0.3
+SOUND boss_appear
+
+SAY 魔王 "我が名は魔王ゼノヴァス！"
+CAMERA_ZOOM 1.0 0.5
+
+SAY 勇者 "ついに...この時が来たか！"
+WAIT 0.5
+
+BGM play boss_battle
+END

@@ -1,0 +1,20 @@
+# 感動シーン - 別れ
+
+BGM play sad_theme
+WAIT 1.0
+
+SAY 仲間 "ここまでだな..."
+WAIT 0.5
+SAY 勇者 "何を言ってるんだ！一緒に帰ろう！"
+
+CAMERA_ZOOM 1.3 1.0
+SAY 仲間 "俺がここで食い止める。お前は先に行け。"
+WAIT 0.3
+SAY 勇者 "そんな...！"
+
+MOVE player -1 0 0.5
+SAY 仲間 "世界を...頼んだぞ。"
+
+FADE white_out 2.0
+WAIT 1.0
+END

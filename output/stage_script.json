@@ -1,0 +1,38 @@
+[
+  {
+    "action": "setup_lighting",
+    "params": { "r": 50, "g": 50, "b": 120, "power": 150, "duration": 1.0 }
+  },
+  {
+    "action": "place_character",
+    "params": { "id": "hero", "x": 15.0, "z": 13.0, "y": 3.75, "facing": "forward" }
+  },
+  {
+    "action": "dialogue",
+    "params": { "speaker": "冒険者", "text": "……ふぅ。\\w[0.5]ようやくたどり着いたか、伝説の森の家に。" }
+  },
+  {
+    "action": "wait",
+    "params": { "duration": 0.8 }
+  },
+  {
+    "action": "flash",
+    "params": { "r": 255, "g": 255, "b": 255, "duration": 0.1 }
+  },
+  {
+    "action": "shake",
+    "params": { "duration": 1.0, "power": 2 }
+  },
+  {
+    "action": "dialogue",
+    "params": { "speaker": "森の守護者", "text": "「立ち去れ……\\w[0.5]ここはお前の来る場所ではない……」" }
+  },
+  {
+    "action": "dialogue",
+    "params": { "speaker": "冒険者", "text": "なにっ！？\\w[0.3]どこだ、姿を見せろ！！" }
+  },
+  {
+    "action": "move_character",
+    "params": { "id": "hero", "steps": 1, "direction": "backward" }
+  }
+]
